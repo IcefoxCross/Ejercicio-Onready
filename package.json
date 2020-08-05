@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio-onready",
+  "version": "1.0.0",
+  "description": "Ejercicio de prueba para Desarrollador",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Adrian Reus",
+  "license": "ISC",
+  "bin": {
+    "hello": "./bin/index.js"
+  }
+}
